@@ -1,0 +1,17 @@
+SYNTHETIC DATA ONLY — not real telecom model performance
+The 0.25 threshold is for demonstration, not a recommended business threshold.
+
+Accuracy at threshold 0.25: 0.7470
+Precision at threshold 0.25: 0.1699
+Recall at threshold 0.25: 0.2991
+F1 at threshold 0.25: 0.2167
+ROC-AUC (threshold independent): 0.6288
+
+              precision    recall  f1-score   support
+
+           0       0.90      0.81      0.85       883
+           1       0.17      0.30      0.22       117
+
+    accuracy                           0.75      1000
+   macro avg       0.53      0.55      0.53      1000
+weighted avg       0.81      0.75      0.78      1000
